@@ -1,3 +1,3 @@
 # test3
 
-updated
+Deleted line 3 
